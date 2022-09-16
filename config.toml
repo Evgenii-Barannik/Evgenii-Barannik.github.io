@@ -25,8 +25,8 @@ hyde_links = [
     {url = "https://evgenii-barannik.github.io/Alzy-site-test/info/contacts#starthere", name = "Contacts"},
     {url = "https://evgenii-barannik.github.io/Alzy-site-test/info/services#starthere", name = "Services"},
     {url = "https://evgenii-barannik.github.io/Alzy-site-test/info/methods#starthere", name = "Lab analysis"},
-    {url = "/info/pricing#starthere", name = "Pricing"},
-    {url = "/info/about#starthere", name = "About"},
-    {url = "/info/gdpr#starthere", name = "Privacy policy"},
-    {url = "/atom.xml", name = "Atom feed"},
+    {url = "$BASE_URL/info/pricing#starthere", name = "Pricing"},
+    {url = "$BASE_URL/info/about#starthere", name = "About"},
+    {url = "$BASE_URL/info/gdpr#starthere", name = "Privacy policy"},
+    {url = "$BASE_URL/atom.xml", name = "Atom feed"},
 ]
