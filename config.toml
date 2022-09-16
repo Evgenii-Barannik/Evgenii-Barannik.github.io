@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "https://www.zymologia.fi/"
+# base_url = "https://www.zymologia.fi/"
+base_url = "https://evgenii-barannik.github.io/Alzy-site-test/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
