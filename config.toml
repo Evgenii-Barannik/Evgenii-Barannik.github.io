@@ -22,7 +22,7 @@ hyde_sticky = true
 hyde_reverse = false
 hyde_theme = ""
 hyde_links = [
-    {url = "/info/contacts#starthere", name = "Contacts"},
+    {url = {{config.base_url}}"/info/contacts#starthere", name = "Contacts"},
     {url = "/info/services#starthere", name = "Services"},
     {url = "/info/methods#starthere", name = "Lab analysis"},
     {url = "/info/pricing#starthere", name = "Pricing"},
