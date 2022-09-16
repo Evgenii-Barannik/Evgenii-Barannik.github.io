@@ -1,6 +1,6 @@
 # The URL the site will be built for
 # base_url = "https://www.zymologia.fi/"
-base_url = "https://evgenii-barannik.github.io/Alzy-site-test/"
+base_url = "https://evgenii-barannik.github.io/Alzy-site-test"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -22,7 +22,7 @@ hyde_sticky = true
 hyde_reverse = false
 hyde_theme = ""
 hyde_links = [
-    {url = {{config.base_url}}"/info/contacts#starthere", name = "Contacts"},
+    {url = "/info/contacts#starthere", name = "Contacts"},
     {url = "/info/services#starthere", name = "Services"},
     {url = "/info/methods#starthere", name = "Lab analysis"},
     {url = "/info/pricing#starthere", name = "Pricing"},
