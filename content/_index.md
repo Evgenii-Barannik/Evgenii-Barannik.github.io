@@ -1,3 +1,3 @@
 +++
-redirect_to = "@/info/about.md"
+redirect_to = "/info/about"
 +++
