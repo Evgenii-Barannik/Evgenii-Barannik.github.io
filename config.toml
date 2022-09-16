@@ -22,11 +22,11 @@ hyde_sticky = true
 hyde_reverse = false
 hyde_theme = ""
 hyde_links = [
-    {url = "/info/contacts#starthere", name = "Contacts"},
-    {url = "/info/services#starthere", name = "Services"},
-    {url = "/info/methods#starthere", name = "Lab analysis"},
-    {url = "/info/pricing#starthere", name = "Pricing"},
-    {url = "/info/about#starthere", name = "About"},
-    {url = "/info/gdpr#starthere", name = "Privacy policy"},
-    {url = "/atom.xml", name = "Atom feed"},
+    {url = "@/info/contacts.md", name = "Contacts"},
+    {url = "@/info/services.md", name = "Services"},
+    {url = "@/info/methods.md", name = "Lab analysis"},
+    {url = "@/info/pricing.md", name = "Pricing"},
+    {url = "@/info/about.md", name = "About"},
+    {url = "@/info/gdpr.md", name = "Privacy policy"},
+    {url = "@/atom.xml", name = "Atom feed"},
 ]
