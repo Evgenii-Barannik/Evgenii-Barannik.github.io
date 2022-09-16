@@ -9,7 +9,11 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
 
       <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-      <link rel="shortcut icon" href="/images/logofav.png">
+      <link rel="shortcut icon" href="{{ get_url(path="@/images/logofav.png") }}>
+
+      <!-- Example of path:
+      <p>Click <a href="{{ get_url(path="@/blog/_index.md") }}">here</a> to see my posts.</p> 
+      -->
 
       <!-- CSS -->
       <link rel="stylesheet" href="/print.css" media="print">
