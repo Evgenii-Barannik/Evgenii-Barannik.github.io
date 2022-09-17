@@ -29,6 +29,3 @@ hyde_links = [
     {url = "/Alzy-site-test/info/gdpr#starthere", name = "Privacy policy"},
     {url = "/Alzy-site-test/atom.xml", name = "Atom feed"},
 ]
-
-[link_checker]
-internal_level = "warn"
