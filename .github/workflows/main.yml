@@ -20,7 +20,6 @@ jobs:
           BUILD_FLAGS: --drafts
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CHECK_LINKS: true
-          OUT_DIR: docs
           
   build_and_deploy:
     runs-on: ubuntu-latest
