@@ -9,7 +9,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
 
       <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-      <link rel="shortcut icon" href="logofav.png">
+      <link rel="shortcut icon" href="images/logofav.png">
 
       <!-- CSS -->
       <link rel="stylesheet" href="{{ get_url(path="print.css", trailing_slash=false) }}" media="print">
@@ -31,7 +31,7 @@
                 <div class="container {% if config.extra.hyde_sticky %}sidebar-sticky{% endif %}">
                     <div class="sidebar-about">
                         {% block sidebar_about %}
-      <a href="{{ config.base_url }}#starthere"><img src="logowhitenamepath.svg"></a>
+      <a href="{{ config.base_url }}#starthere"><img src="images/logowhitenamepath.svg"></a>
                             {% if config.description %}
                             <p class="lead">{{config.description}}</p>
                             {% endif %}
