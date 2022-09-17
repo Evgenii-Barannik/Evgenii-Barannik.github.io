@@ -20,9 +20,9 @@ Don't see something you need? [Contact us!](@/info/contacts.md)
 ## Sample submission form
 You can delegate all the paperwork to us. Just make sure the beer is delivered and tell us what you want! If you choose to help us with the paperwork (this is voluntary), you can use our standard **sample submission form** for alcoholic beverages. It is available in several file formats:
 
-* [Submission form in pdf](@/static/Alzymologist-submission-form.pdf)
-* [Submission form in xlsx](/static/Alzymologist-submission-form.xlsx)
-* [Submission form in docx](static/Alzymologist-submission-form.docx)
+* [Submission form in pdf](Alzymologist-submission-form.pdf)
+* [Submission form in xlsx](/content/Alzymologist-submission-form.xlsx)
+* [Submission form in docx](content/Alzymologist-submission-form.docx)
 * [Submission form in txt](Alzymologist-submission-form.txt)
 
 ***This page is under construction***<br>
