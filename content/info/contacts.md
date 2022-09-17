@@ -18,11 +18,11 @@ Alzymologist Oy is more than just a chemical laboratory, we also do software and
 
 **Alzymologist** (Polkadot)   
 12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq
-![Alzy-polkadot](/images/Alzy_polkadot.svg)
+![Alzy-polkadot](@/images/Alzy_polkadot.svg)
 
 **Alzymologist** (Kusama)   
 EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g
-![Alzy-kusama](/images/Alzy_kusama.svg)
+![Alzy-kusama](@/images/Alzy_kusama.svg)
 
 ## Trusted validators on Kusama
  
