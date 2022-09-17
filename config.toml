@@ -7,8 +7,8 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
-title = "Alzymologist Oy"
-description = "Laboratory for microbrewers"
+title = "🦎 Overcharged ⚡"
+description = "Hello lizards of the world."
 generate_feed = true
 
 [markdown]
