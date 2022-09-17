@@ -1,7 +1,6 @@
-This website is powered by [Zola](https://www.getzola.org/) and hosted on [GitHub](https://github.com/). To build it locally use
+This website is powered by [Zola](https://www.getzola.org/) and hosted on [GitHub](https://github.com/). Theme used is [Hyde](https://www.getzola.org/themes/hyde/). To simulate pouring into another branch locally use
 
 ```sh
-zola build --output-dir docs
+zola serve --output-dir ../some-other-folder
 ```
 
-Theme used is [Hyde](https://www.getzola.org/themes/hyde/).
