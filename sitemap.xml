@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://evgenii-barannik.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://evgenii-barannik.github.io/info/</loc>
+    </url>
+    <url>
+        <loc>https://evgenii-barannik.github.io/info/about/</loc>
+        <lastmod>2020-10-20</lastmod>
+    </url>
+    <url>
+        <loc>https://evgenii-barannik.github.io/info/contacts/</loc>
+        <lastmod>2022-07-30</lastmod>
+    </url>
+    <url>
+        <loc>https://evgenii-barannik.github.io/info/gdpr/</loc>
+        <lastmod>2020-10-20</lastmod>
+    </url>
+    <url>
+        <loc>https://evgenii-barannik.github.io/info/methods/</loc>
+        <lastmod>2020-10-20</lastmod>
+    </url>
+    <url>
+        <loc>https://evgenii-barannik.github.io/info/pricing/</loc>
+        <lastmod>2020-10-20</lastmod>
+    </url>
+    <url>
+        <loc>https://evgenii-barannik.github.io/info/services/</loc>
+        <lastmod>2020-10-20</lastmod>
+    </url>
+</urlset>

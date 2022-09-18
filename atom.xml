@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Alzymologist Oy</title>
+	<subtitle>Laboratory for microbrewers</subtitle>
+	<link href="https://evgenii-barannik.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://evgenii-barannik.github.io/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-07-30T00:00:00+00:00</updated>
+	<id>https://evgenii-barannik.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Contact Alzymologist Oy</title>
+		<published>2022-07-30T00:00:00+00:00</published>
+		<updated>2022-07-30T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://evgenii-barannik.github.io/info/contacts/" type="text/html"/>
+		<id>https://evgenii-barannik.github.io/info/contacts/</id>
+		<content type="html">&lt;h2 id=&quot;our-contacts&quot;&gt;Our contacts&lt;&#x2F;h2&gt;
+&lt;p&gt;The best way to learn more about us is to write to &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;&lt;strong&gt;contact@zymologia.fi&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br&gt;
+There is no automatic responder on the other side, just us.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lab-location&quot;&gt;Lab location&lt;&#x2F;h2&gt;
+&lt;p&gt;Our lab is located in the Keran Hallit complex. Come and visit us! We are very interested in handshaking and cooperation.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;alzymologist-oy-team&quot;&gt;Alzymologist Oy team&lt;&#x2F;h2&gt;
+&lt;p&gt;Alzymologist Oy is more than just a chemical laboratory, we also do software and hardware development! Check out our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Alzymologist&quot;&gt;GitHub page&lt;&#x2F;a&gt;, we use it to organize projects. We stand for the legal and responsible use of cryptocurrencies. Our on-chain Polkadot and Kusama addresses:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Alzymologist&lt;&#x2F;strong&gt; (Polkadot)&lt;br &#x2F;&gt;
+12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq
+&lt;img src=&quot;&#x2F;images&#x2F;Alzy_polkadot.svg&quot; alt=&quot;Alzy-polkadot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Alzymologist&lt;&#x2F;strong&gt; (Kusama)&lt;br &#x2F;&gt;
+EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g
+&lt;img src=&quot;&#x2F;images&#x2F;Alzy_kusama.svg&quot; alt=&quot;Alzy-kusama&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;trusted-validators-on-kusama&quot;&gt;Trusted validators on Kusama&lt;&#x2F;h2&gt;
+&lt;p&gt;List of trusted validators on Kusama that we can recommend for staking:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Alzymologist&#x2F;Alzymologist-validator-0&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+EAp3SeY72kfoCUV9SRbmZyiWVEhoQevwLASo7HmiTxCVKuv&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Alzymologist&#x2F;Alzymologist-validator-1&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+HPb2Eumk74WJ1rCnVL8rdQvJ8ALyUhxRmGxVrbHbuQ8fFMW&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Sasha&#x2F;Alzymologist-00&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+EQHdPbmAySkGg8UmTDfnVTkU7FhQ1ytKPMopsoN7Kuy2eth&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Sasha&#x2F;Alzymologist-01&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+EkDQN44Bn4SB9oLQTk5fSxCeRPFYAndH8dCGNeRAMLjfp41&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;♞GameTheory♜&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+DY3hczPcJjHXScXkKwJZ7vgqTE4bZaCUa56XsAQH8gDzB7x&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;♞GameTheory♜&#x2F;v2&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+FPwa55diVEYwSuhNXwDACk31u4BTe2kgC255BsibKJwFksc&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>About Alzymologist Oy Lab</title>
+		<published>2020-10-20T00:00:00+00:00</published>
+		<updated>2020-10-20T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://evgenii-barannik.github.io/info/about/" type="text/html"/>
+		<id>https://evgenii-barannik.github.io/info/about/</id>
+		<content type="html">&lt;p&gt;Business ID: 3162030-9&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-mission&quot;&gt;Our mission&lt;&#x2F;h2&gt;
+&lt;p&gt;Finland is famous for great engineers and tough alcohol regulations. Microbrewers saved the world from mediocre beer, and Finland is a great place for microbrewers - but how many could afford a lab? The answer is - as many as possible!&lt;&#x2F;p&gt;
+&lt;p&gt;Proper analytical laboratory involves expensive start-up costs, maintenance costs - and at least one skilled person to run it. In the end, no matter how many samples are run, some costs remain the same. And this is where community power comes in.&lt;&#x2F;p&gt;
+&lt;p&gt;Alzymologist Oy is a dedicated laboratory for microbrewers. The services we offer are based on industrial brewing technology analytical methods, but we tune them for microbrewers needs and develop new tools - this is why we are called &amp;quot;Alzymologist&amp;quot;. Microbrewers make better beer and should have better analytical tools at their disposal. And zymological knowledge should belong to people - yes, we share what we can.&lt;&#x2F;p&gt;
+&lt;p&gt;Did we just say beer? All other zymology users are welcome - cider, mead, wine, etc.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-values&quot;&gt;Our values&lt;&#x2F;h2&gt;
+&lt;p&gt;We value good beer. Of course, &lt;em&gt;consistent&lt;&#x2F;em&gt; beer is something from the world of mass production, but what is really important - &lt;em&gt;consistently good&lt;&#x2F;em&gt; beer - belongs to microbrewers.&lt;&#x2F;p&gt;
+&lt;p&gt;We value straightforwardness and openness. We tell you what we do and why, who we are and what we know.&lt;&#x2F;p&gt;
+&lt;p&gt;We value community power. Working together - many microbrewers outsourcing analysis to our lab - makes our project possible. Everyone will have all the tools and expertise. And we share back - all scientific knowledge we produce ourselves we will freely share with people. Even this website is powered by &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;FOSS&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;At the same time, we value intellectual property. Your data is your data, we will keep it secure. All clients data is stored and processed separately - unless you ask us otherwise. Even our email is encrypted. &lt;a href=&quot;https:&#x2F;&#x2F;evgenii-barannik.github.io&#x2F;info&#x2F;gdpr&#x2F;&quot;&gt;Read our data protection statement&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;We value personality. Microbrewing is based on small scale, on individuals rather than corporations. We strive to keep this spirit - so &lt;a href=&quot;https:&#x2F;&#x2F;evgenii-barannik.github.io&#x2F;info&#x2F;contacts&#x2F;&quot;&gt;contact us!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Do you share our values? Let&#x27;s make great beers together!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-goals&quot;&gt;Our goals&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Give microbrewers complete and affordable analytical capabilities&lt;&#x2F;li&gt;
+&lt;li&gt;Improve zymology and other sciences&lt;&#x2F;li&gt;
+&lt;li&gt;Make finnish beer famous for its unmatched quality&lt;&#x2F;li&gt;
+&lt;li&gt;Influence regulators, standartization organs and convents&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;about-us&quot;&gt;About us&lt;&#x2F;h2&gt;
+&lt;p&gt;Alzymologist Oy is a family-founded company that has grown over time to accommodate new members. We are a team of chemists, physicists, and computer scientists, and we work together for over 10 years. For years we&#x27;ve been making our own homebrewing &amp;quot;experiments&amp;quot;, studying zymology as a hobby, that was well complimented by our professional skills and expertise. We&#x27;ve decided to start analytical company when we realized that nobody really cares to offer quality analytical services to those who need it most. We source our inspiration from White Labs success and we aim to improve craft alcohol world as they did.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-09-01&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Privacy policy</title>
+		<published>2020-10-20T00:00:00+00:00</published>
+		<updated>2020-10-20T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://evgenii-barannik.github.io/info/gdpr/" type="text/html"/>
+		<id>https://evgenii-barannik.github.io/info/gdpr/</id>
+		<content type="html">&lt;h2 id=&quot;personal-data&quot;&gt;Personal data&lt;&#x2F;h2&gt;
+&lt;p&gt;This is a completely static website, we are not collecting any information and we do not track users.&lt;&#x2F;p&gt;
+&lt;p&gt;This website is hosted on &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;&quot;&gt;GitHub&lt;&#x2F;a&gt;, the hoster might be collecting IP addresses or other statistics to prevent abuse in accordance with &lt;a href=&quot;https:&#x2F;&#x2F;docs.github.com&#x2F;en&#x2F;site-policy&#x2F;privacy-policies&#x2F;github-privacy-statement&quot;&gt;their privacy policy&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;We keep your emails on &lt;a href=&quot;https:&#x2F;&#x2F;protonmail.com&#x2F;&quot;&gt;ProtonMail&lt;&#x2F;a&gt; servers in accordance with &lt;a href=&quot;https:&#x2F;&#x2F;protonmail.com&#x2F;privacy-policy&quot;&gt;their privacy policy&lt;&#x2F;a&gt;. We are not sharing them with anyone and will ask for your consent to add your address to any mailing lists in a separate email.&lt;&#x2F;p&gt;
+&lt;p&gt;If you would like us to delete the personal data we have or make any changes, please &lt;a href=&quot;https:&#x2F;&#x2F;evgenii-barannik.github.io&#x2F;info&#x2F;contacts&#x2F;&quot;&gt;send us an email&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Laboratory analysis</title>
+		<published>2020-10-20T00:00:00+00:00</published>
+		<updated>2020-10-20T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://evgenii-barannik.github.io/info/methods/" type="text/html"/>
+		<id>https://evgenii-barannik.github.io/info/methods/</id>
+		<content type="html">&lt;p&gt;Examples of measurements we provide:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alcohol content by volume (ABV)&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Alcohol content by mass (also known as ABW)&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Real extract&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Apparent extract&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Original extract&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Real degree of fermentation&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Apparent degree of fermentation&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Specific gravity&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This list is not exhaustive, but holds only popular methods.&lt;br&gt;
+Don&#x27;t see something you need? &lt;a href=&quot;https:&#x2F;&#x2F;evgenii-barannik.github.io&#x2F;info&#x2F;contacts&#x2F;&quot;&gt;Contact us!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;sample-submission-form&quot;&gt;Sample submission form&lt;&#x2F;h2&gt;
+&lt;p&gt;You can delegate all the paperwork to us. Just make sure the beer is delivered and tell us what you want! If you choose to help us with the paperwork (this is voluntary), you can use our standard &lt;strong&gt;sample submission form&lt;&#x2F;strong&gt; for alcoholic beverages. It is available in several file formats:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.pdf&quot;&gt;Submission form in pdf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.xlsx&quot;&gt;Submission form in xlsx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.docx&quot;&gt;Submission form in docx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.txt&quot;&gt;Submission form in txt&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-09-01&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Pricing guide</title>
+		<published>2020-10-20T00:00:00+00:00</published>
+		<updated>2020-10-20T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://evgenii-barannik.github.io/info/pricing/" type="text/html"/>
+		<id>https://evgenii-barannik.github.io/info/pricing/</id>
+		<content type="html">&lt;h2 id=&quot;general-rules&quot;&gt;General rules&lt;&#x2F;h2&gt;
+&lt;p&gt;All pricing is determined on case-by-case basis. Most tests are priced at €20 - €200 depending on test complexity and number of samples. The more services are ordered, the lower the price of each will be; this is deliberately done for three reasons:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;This makes beer better&lt;&#x2F;li&gt;
+&lt;li&gt;This is easier for us&lt;&#x2F;li&gt;
+&lt;li&gt;Commercially, everyone benefits from more tests&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The analysis costs will include transportation. Again, we will strive to reduce these costs if many samples are repeatedly ordered from the same area, probably even open a new lab or send you a laboratory in a truck.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Our services</title>
+		<published>2020-10-20T00:00:00+00:00</published>
+		<updated>2020-10-20T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://evgenii-barannik.github.io/info/services/" type="text/html"/>
+		<id>https://evgenii-barannik.github.io/info/services/</id>
+		<content type="html">&lt;h2 id=&quot;laboratory-analysis&quot;&gt;Laboratory analysis&lt;&#x2F;h2&gt;
+&lt;p&gt;We will visit your facility to collect samples and determine parameters you are interested in. Where possible, we can let you deliver us these samples by any means you find appropriate. Read more in the &lt;a href=&quot;https:&#x2F;&#x2F;evgenii-barannik.github.io&#x2F;info&#x2F;methods&#x2F;&quot;&gt;lab analysis&lt;&#x2F;a&gt; section.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;yeast-capture-and-propagation&quot;&gt;Yeast capture and propagation&lt;&#x2F;h2&gt;
+&lt;p&gt;We can capture yeast from live beer or other inoculated substrates and propagate it to laboratory propagation scale. We can start and stop anywhere in the middle between these points. Note: we will not knowingly capture yeast from your competitors if they are also our clients! Just talk to each other, be good neighbours!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consulting&quot;&gt;Consulting&lt;&#x2F;h2&gt;
+&lt;p&gt;Ask us questions, let us help you troubleshoot your process! In many cases it is free, if it is not we&#x27;ll tell you and charge you upfront.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;sensory-training&quot;&gt;Sensory training&lt;&#x2F;h2&gt;
+&lt;p&gt;We will come to your premises and train your personnel to distinguish between different off-flavours to identify process faults as early as possible. We will also train them to informatively describe the profile of beer. Your beer will be used as a baseline model for best results.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;control-purchase&quot;&gt;Control purchase&lt;&#x2F;h2&gt;
+&lt;p&gt;We will visit typical outlets with your products, purchase and analyze them, so that you can be sure that your product is stored and served as you intended.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;data-analysis&quot;&gt;Data analysis&lt;&#x2F;h2&gt;
+&lt;p&gt;We will store all your data and analyze it (unless you tell us not to!). You can even submit additional information or ask us to look for some particular information. Small breweries can have big data!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-09-01&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

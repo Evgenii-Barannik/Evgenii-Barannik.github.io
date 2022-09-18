@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://evgenii-barannik.github.io/sitemap.xml
